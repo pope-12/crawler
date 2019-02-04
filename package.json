@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": 
+    { "build": "node index.js"}
+  ,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "headless-chrome-crawler": "^1.8.0"
+  }
+}
